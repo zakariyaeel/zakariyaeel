@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there! 👋
+I'm a developer passionate about web technologies.
+🔭 I’m currently working on my personal portfolio website.
+🌱 I’m currently learning Python and machine learning.
+💬 Ask me about JavaScript or React.
+📫 How to reach me: [my email](mailto:codezak75@example.com)
+
 
 <!--
 **zakariyaeel/zakariyaeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
