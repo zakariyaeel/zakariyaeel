@@ -1,14 +1,11 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Zakariyae El houari 👋
 <!-- Static Contact Badges -->
 <p align="left">
 <a href="mailto:your.email@example.com">
-  <img src="img.shields.io" alt="Email"/>
+  <img src="https://img.shields.io/badge/Mail%20-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="www.linkedin.com">
-  <img src="img.shields.io" alt="LinkedIn"/>
-</a>
-<a href="tel:+1234567890">
-  <img src="img.shields.io" alt="Phone"/>
+<a href="www.linkedin.com/zakariyae">
+  <img src="https://img.shields.io/badge/Linkedine-%23003A9B?style=flat&logo=inspire&logoColor=white" alt="LinkedIn"/>
 </a>
 </p>
 
@@ -21,10 +18,10 @@ I am a software engineer driven by a passion for **innovation and problem-solvin
 
 #### 🌐 Web Development
 <p align="left">
-  <img src="img.shields.io" />
-  <img src="img.shields.io" />
-  <img src="img.shields.io" />
-  <img src="img.shields.io" />
+  <img src="https://img.shields.io/badge/react-%2361DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/nextdotjs-%23000000?style=flat&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/nodedotjs-%235FA04E?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="img.shields.io" />
 </p>
 
@@ -59,16 +56,3 @@ I am a software engineer driven by a passion for **innovation and problem-solvin
   <img src="img.shields.io" />
   <img src="img.shields.io" />
 </p>
-
----
-
-### 📊 GitHub Stats
-![Your GitHub Stats](github-readme-stats.vercel.app)
-![Top Langs](github-readme-stats.vercel.app)
-
----
-
-### 📫 Get in Touch
-*   **Email:** [your.email@example.com](mailto:your.email@example.com)
-*   **LinkedIn:** [linkedin.com](https://linkedin.com)
-*   **Phone:** +00 000 000 000
