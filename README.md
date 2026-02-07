@@ -1,11 +1,10 @@
 # Hi there, I'm Zakariyae El houari 👋
-<!-- Static Contact Badges -->
 <p align="left">
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Mail%20-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:zakariyaeelhouari@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="www.linkedin.com/zakariyae">
-  <img src="https://img.shields.io/badge/Linkedine-%23003A9B?style=flat&logo=inspire&logoColor=white" alt="LinkedIn"/>
+<a href="https://linkedin.com/in/zakariyae">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </p>
 
@@ -16,43 +15,22 @@ I am a software engineer driven by a passion for **innovation and problem-solvin
 
 ### 💻 Technologies I Master
 
-#### 🌐 Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/react-%2361DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/nextdotjs-%23000000?style=flat&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/nodedotjs-%235FA04E?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="img.shields.io" />
-</p>
+#### 🌐 Front-End Development
+[![Web Skills](https://skillicons.dev/icons?i=angular,react,nextjs,html,css,js,tailwind,bootstrap)](https://skillicons.dev)
+
+#### 🌐 Back-End Development
+[![Web Skills](https://skillicons.dev/icons?i=spring,laravel,nodejs,express,php)](https://skillicons.dev)
 
 #### ♾️ DevOps & Infrastructure
-<p align="left">
-  <img src="img.shields.io" />
-  <img src="img.shields.io" />
-  <img src="img.shields.io" />
-  <img src="img.shields.io" />
-</p>
+[![DevOps Skills](https://skillicons.dev/icons?i=docker,githubactions,git,terraform,)](https://skillicons.dev)
 
-#### 🤖 Artificial Intelligence
-<p align="left">
-  <img src="img.shields.io" />
-  <img src="img.shields.io" />
-  <img src="img.shields.io" />
-  <img src="img.shields.io" />
-  <img src="img.shields.io" />
-</p>
+#### 🤖 Artificial Intelligence & Data Science
+[![AI Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,scikitlearn,opencv)](https://skillicons.dev)
 
 #### 🗄️ Database & Architecture
-<p align="left">
-  <img src="img.shields.io" />
-  <img src="img.shields.io" />
-  <img src="img.shields.io" />
-  <img src="img.shields.io" />
-</p>
+[![DB Skills](https://skillicons.dev/icons?i=mysql,mongodb,)](https://skillicons.dev)
 
 #### 🤖 Robotics & IoT
-<p align="left">
-  <img src="img.shields.io" />
-  <img src="img.shields.io" />
-  <img src="img.shields.io" />
-</p>
+[![Robotics Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,esp)](https://skillicons.dev)
+
+---
